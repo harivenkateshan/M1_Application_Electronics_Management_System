@@ -2,6 +2,7 @@
 ## ELECTRONIC STORE MANAGEMENT SYTEM
 ### BADGES
 ![Codiga Badge](https://api.codiga.io/project/32460/score/svg) 
+[![Code Quality](https://api.codiga.io/project/32460/score/svg) ]
 
 
 
