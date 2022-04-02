@@ -1,5 +1,5 @@
 /**
- * @file Electronics_Managment_System.h
+ * @file electronic_Managment_system.h
  * 
  * @brief 
  * @version 0.1
@@ -9,8 +9,8 @@
  * 
  */
 
-#ifndef __ELECTRONICS_MANAGEMENT_SYSTEM_H__
-#define __ELECTRONICS_MANAGEMENT_SYSTEM_H__
+#ifndef __ELECTRONIC_MANAGEMENT_SYSTEM_H__
+#define __ELECTRONIC_MANAGEMENT_SYSTEM_H__
 
 #include<stdio.h>
 #include<stdlib.h>
