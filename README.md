@@ -1,6 +1,8 @@
 # M1_Application_Electronics_Management_System
 ## ELECTRONIC STORE MANAGEMENT SYTEM
 ### BADGES
+[![Codiga Badge](https://api.codiga.io/project/32460/score/svg) ]
+
 
 
 
